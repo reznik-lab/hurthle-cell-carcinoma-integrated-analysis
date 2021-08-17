@@ -1,6 +1,6 @@
 # Mitonuclear genotype drives extreme metabolism and immune suppression in hurthle cell carcinoma
 
-Hurthle cell carcinoma integrated analysis
+![alt text](https://github.com/reznik-lab/hurthle-cell-carcinoma-integrated-analysis/data/github_blob.png "Fig 2. Comparative metabolomics")
 
 
 ## References
