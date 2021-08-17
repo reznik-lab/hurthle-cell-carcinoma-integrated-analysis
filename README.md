@@ -1,2 +1,10 @@
-# hurthle-cell-carcinoma-metabolomics
-Hurthle cell carcinoma metabolomics analysis
+# hurthle-cell-carcinoma-integrated-analysis
+Hurthle cell carcinoma integrated analysis
+
+# Instructions:
+
+Clone this repo:
+```shell
+git clone https://github.com/reznik-lab/hurthle-cell-carcinoma-integrated-analysis
+cd 
+```
