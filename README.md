@@ -6,5 +6,5 @@ Hurthle cell carcinoma integrated analysis
 Clone this repo:
 ```shell
 git clone https://github.com/reznik-lab/hurthle-cell-carcinoma-integrated-analysis
-cd 
+cd hurthle-cell-carcinoma-integrated-analysis
 ```
