@@ -3,12 +3,16 @@
 Hurthle cell carcinoma integrated analysis
 
 
-### References
+## References
 
-* Ian Ganly, Eric Minwei Liu, Fengshen Kuo, Vladimir Makarov, Yiyu Dong, Jinsung Park, Yongxing Gong, Alexander N. Gorelick, Jeffrey A Knauf, Elisa Benedetti, Luc G.T. Morris, James A. Fagin, Andrew Intlekofer, Jan Krumsiek, Ronald Ghossein, Bin Xu, Timothy A. Chan, Ed Reznik ["Mitonuclear Genotype Drives Extreme Metabolism and Immune Suppression in Hurthle Cell Carcinoma"](https://aa)
+* Ian Ganly, Eric Minwei Liu, Fengshen Kuo, Vladimir Makarov, Yiyu Dong, Jinsung Park, Yongxing Gong, Alexander N. Gorelick, Jeffrey A Knauf, Elisa Benedetti, Luc G.T. Morris, James A. Fagin, Andrew Intlekofer, Jan Krumsiek, Ronald Ghossein, Bin Xu, Timothy A. Chan, Ed Reznik ["Mitonuclear Genotype Drives Extreme Metabolism and Immune Suppression in Hurthle Cell Carcinoma"](https://aa) (2021)
 
-### Overview
+## Overview
+Analysis scripts for Ganly and Liu et al.(2021)
 
+
+### Requirements
+* R version 4.1.0 -- "Camp Pontanezen"
 
 
 ### Getting started
@@ -18,6 +22,8 @@ Hurthle cell carcinoma integrated analysis
 git clone https://github.com/reznik-lab/hurthle-cell-carcinoma-integrated-analysis
 cd hurthle-cell-carcinoma-integrated-analysis
 ```
+
+**2.** Running the scripts in the R folder to generate relevant figures of the study.
 
 ## Contacts
 For any questions, comments and suggestions, please email
