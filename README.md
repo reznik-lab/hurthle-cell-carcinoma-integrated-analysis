@@ -19,7 +19,7 @@ git clone https://github.com/reznik-lab/hurthle-cell-carcinoma-integrated-analys
 cd hurthle-cell-carcinoma-integrated-analysis
 ```
 
-### Contacts
+## Contacts
 For any questions, comments and suggestions, please email
 
 * Ed Reznik, reznike [at] mskcc.org 
