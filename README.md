@@ -1,14 +1,14 @@
-# Mitonuclear genotype drives extreme metabolism and immune suppression in hurthle cell carcinoma
+# Mitonuclear Genotype Remodels the Metabolic and Microenvironmental Landscape of Hurthle Cell Carcinoma
 
 ![alt text](https://github.com/reznik-lab/hurthle-cell-carcinoma-integrated-analysis/blob/main/data/github_blob.png "Fig 2. Comparative metabolomics")
 
 
 ## References
 
-* Ian Ganly, Eric Minwei Liu, Fengshen Kuo, Vladimir Makarov, Yiyu Dong, Jinsung Park, Yongxing Gong, Alexander N. Gorelick, Jeffrey A Knauf, Elisa Benedetti, Luc G.T. Morris, James A. Fagin, Andrew Intlekofer, Jan Krumsiek, Ronald Ghossein, Bin Xu, Timothy A. Chan, Ed Reznik ["Mitonuclear Genotype Drives Extreme Metabolism and Immune Suppression in Hurthle Cell Carcinoma"](https://aa) (2021)
+* Ian Ganly*, Eric Minwei Liu*, Fengshen Kuo, Vladimir Makarov, Yiyu Dong, Jinsung Park, Yongxing Gong, Alexander N. Gorelick, Jeffrey A Knauf, Elisa Benedetti, Jacqueline Tait-Mulder, Luc G.T. Morris, James A. Fagin, Andrew M Intlekofer, Jan Krumsiek, Payam A. Gammage, Ronald Ghossein, Bin Xu, Timothy A. Chan#, Ed Reznik# ["Mitonuclear Genotype Remodels the Metabolic and Microenvironmental Landscape of Hurthle Cell Carcinoma"](https://aa) (2022)
 
 ## Overview
-Analysis scripts for Ganly and Liu et al.(2021)
+Analysis scripts for Ganly and Liu et al.(2022)
 
 
 ### Requirements
