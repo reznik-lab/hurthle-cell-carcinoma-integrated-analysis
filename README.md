@@ -5,7 +5,7 @@
 
 ## References
 
-* Ian Ganly*, Eric Minwei Liu*, Fengshen Kuo, Vladimir Makarov, Yiyu Dong, Jinsung Park, Yongxing Gong, Alexander N. Gorelick, Jeffrey A Knauf, Elisa Benedetti, Jacqueline Tait-Mulder, Luc G.T. Morris, James A. Fagin, Andrew M Intlekofer, Jan Krumsiek, Payam A. Gammage, Ronald Ghossein, Bin Xu, Timothy A. Chan#, Ed Reznik# ["Mitonuclear Genotype Remodels the Metabolic and Microenvironmental Landscape of Hurthle Cell Carcinoma"](https://aa) (2022)
+* Ian Ganly*, Eric Minwei Liu*, Fengshen Kuo, Vladimir Makarov, Yiyu Dong, Jinsung Park, Yongxing Gong, Alexander N. Gorelick, Jeffrey A Knauf, Elisa Benedetti, Jacqueline Tait-Mulder, Luc G.T. Morris, James A. Fagin, Andrew M Intlekofer, Jan Krumsiek, Payam A. Gammage, Ronald Ghossein, Bin Xu, Timothy A. Chan#, Ed Reznik# ["Mitonuclear Genotype Remodels the Metabolic and Microenvironmental Landscape of Hurthle Cell Carcinoma"](https://www.science.org/doi/10.1126/sciadv.abn9699) (2022)
 
 ## Overview
 Analysis scripts for Ganly and Liu et al.(2022)
